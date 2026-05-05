@@ -1,5 +1,5 @@
 Savannah Tracker Report: Precision AI for Maternal Health
-Introduction (50 words)
+Introduction 
 Precision matters in maternal health because generic advice often fails to account for regional resource constraints. In Kenya and Uganda, maternal outcomes depend on hyper-local factors like diet, distance to clinics, and mobile payment infrastructure. Tailoring AI prompts ensures that medical guidance is not only accurate but also actionable and culturally safe.
 Three Rewritten Prompts
 1. Prompt A: Nutrition Advice
